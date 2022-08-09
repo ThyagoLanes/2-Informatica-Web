@@ -1,1 +1,1 @@
-#file:///C:/Users/Aluno/Desktop/Nova%20pasta/aula.html
+file:///C:/Users/Aluno/Desktop/Nova%20pasta/aula.html
